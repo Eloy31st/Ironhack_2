@@ -1,0 +1,39 @@
+p{
+    color: aqua;
+}
+div{
+    color: red;
+    background-color: red;
+}
+li{
+    color: green;
+    background-color: green;
+}
+a{
+    color: blue;
+    background-color: blue;
+}
+h1{
+    color: yellow;
+    background-color: yellow;
+}
+form{
+    color: orange;
+    background-color: orange;
+}
+label{
+    color: purple;
+    background-color: purple;
+}
+br{
+    color: pink;
+    background-color: pink;
+}
+input {
+    color: brown;
+    background-color: brown;
+}
+body{
+    color: black;
+    background-color: black;
+}
